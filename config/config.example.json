@@ -1,0 +1,15 @@
+{
+  "HOST_NAME": "americas.api.riotgames.com",
+  "IMG_URL": "https://example.com",
+  "BOT_TOKEN": "BOT_TOKEN",
+  "API_KEY": "API_KEY",
+  "ACCOUNT_ID": "ACCOUNT_ID",
+  "SUMMONER_INFO": {
+    "NAME": "Name",
+    "USERNAME": "xXx_username_xXx",
+    "SUMMARY_URL": "https://na.op.gg/summoner/userName=xXx_username_xXx"
+  },
+  "CHANNEL_ID": "CHANNEL_ID",
+  "INTERVAL_MINUTES": 60,
+  "EXIPRATION_MINUTES": 60
+}
